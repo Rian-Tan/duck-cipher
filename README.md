@@ -25,7 +25,7 @@ notes:
 
 ## Great! How do i start using this?
 
-Grab the approriate binary executable (for ur os) from the release page
+Grab the approriate binary executable (for ur os) from the [release](https://github.com/Rian-Tan/duck-cipher/releases/tag/v1.0.0) page
 
 run the program using sh, exec or ./ 
 
