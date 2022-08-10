@@ -1,6 +1,6 @@
 # duck cipher
 
-The world's most secure encryption cipher. 
+The quack encryption cipher. 
 
 ### Quack list: 
 - [x] quack
@@ -14,7 +14,7 @@ The world's most secure encryption cipher.
 
 ![quack quack quack quack quack](./quacks.jpg "quack quack?")
 
-Duck cipher encrypts your plaintext message into a secure, lightweight (well not really lol) and fun ciphertext. QUACK!
+Duck cipher encrypts your plaintext message into a quacky, lightweight (well not really lol) and fun ciphertext. QUACK!
 
 
 
