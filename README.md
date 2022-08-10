@@ -14,13 +14,8 @@ The world's most secure encryption cipher.
 
 ![quack quack quack quack quack](./quacks.jpg "quack quack?")
 
-Duck cipher encrypts your plaintext message into a secure, lightweight (well not really lol) and fun ciphertext. 
+Duck cipher encrypts your plaintext message into a secure, lightweight (well not really lol) and fun ciphertext. QUACK!
 
-> quack!
-> > "Its a feature, not a bug"
-
-notes: 
-- spaces are treated as a character
 
 
 ## Great! How do i start using this?
