@@ -2,6 +2,7 @@ use std::io;
 
 fn main() {
     let mut a: i8 = 1;
+    println!("\nDuck cipher encrypter at your service :D\nenter the word quack to exit\n");
     while a == 1{
 
         let mut plaintext = String::new();
