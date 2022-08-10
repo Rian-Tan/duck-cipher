@@ -20,7 +20,7 @@ Duck cipher encrypts your plaintext message into a secure, lightweight (well not
 
 ## Great! How do i start using this?
 
-Grab the approriate binary executable (for ur os) from the [release](https://github.com/Rian-Tan/duck-cipher/releases/tag/v1.0.0) page
+Grab the approriate binary executable (for ur os) from the [release](https://github.com/Rian-Tan/duck-cipher/releases/) page
 
 run the program using sh, exec or ./ 
 
